@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ultralytics model weights and temporary inputs
+*.pt
+bus.jpg
+
+# System files
+Thumbs.db
+.DS_Store
